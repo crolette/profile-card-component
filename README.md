@@ -1,6 +1,6 @@
-# Frontend Mentor - Stats preview card component solution
+# Frontend Mentor - Profile card component
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -21,8 +21,8 @@ Create a card component.
 
 ### Links
 
-- Solution URL: (https://github.com/crolette/stats-preview-card-component)
-- Live Site URL: (https://crolette.github.io/stats-preview-card-component/)
+- Solution URL: (https://github.com/crolette/profile-card-component)
+- Live Site URL: (https://crolette.github.io/profile-card-component/)
 
 ### Built with
 
