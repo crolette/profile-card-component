@@ -11,16 +11,12 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 ### The challenge
 
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-
+Create a card component.
 
 
 ### Links
@@ -31,14 +27,8 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-
-### Continued development
-
-I am always struggling with responsive layout. Need to improve or find a better way to make my layout responsive while coding.
 
 ## Author
 
