@@ -16,29 +16,34 @@ body{
     position: relative;
     background:hsl(185, 75%, 39%);
     height: 100vh;
+    width: 100vw;
     color: hsl(229, 23%, 23%);
 }
 
 body::before{
     content:"";
     position: absolute;
-    left: -50%;
-    top: -50%;
+    left: 0;
+    top: 0%;
     background: url(../images/bg-pattern-top.svg);
+    background-size: 100%;
     background-repeat: no-repeat;
-    width: 100%;
-    height: 100%;
+    width: 450px;
+    height: 450px;
+    transform: translate(-50%, -50%);
 }
 
 body::after{
-    content:"";
+    content: "";
     position: absolute;
-    right: -50%;
-    bottom: -50%;
+    right: 0;
+    bottom: 0;
     background: url(../images/bg-pattern-bottom.svg);
     background-repeat: no-repeat;
-    width: 100%;
-    height: 100%;
+    background-size: 100%;
+    width: 450px;
+    height: 450px;
+    transform: translate(50%, 50%);
 }
 
 
